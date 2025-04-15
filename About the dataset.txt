@@ -1,5 +1,17 @@
+The RT-LBCI is released as an experimental statistic. It is intended to provide a real-time signal on business activities following the disruptions brought about by the pandemic and through the recovery phase.
+
+Statistics Canada has launched the Real-time Local Business Conditions Index as an experimental statistic to measure business activity in real time during the pandemic and beyond. The Index tracks business conditions in Abbotsford, Barrie, Calgary, Edmonton, Guelph, Halifax, Hamilton, Kanata, Kelowna, Kingston, Kitchener, London, Milton, Moncton, Montréal, Oshawa, Ottawa–Gatineau, Québec, Regina, Saskatoon, Sherbrooke, St. Catharines – Niagara Falls, St. John’s, Toronto, Trois-Rivières, Vancouver, Victoria, White Rock, Windsor, and Winnipeg.
+
+Frequency: 
+  Weekly
+
 Link to dataset:
   https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310039801
+  https://open.canada.ca/data/en/dataset/1eb4c6bb-71a3-4355-8f71-8cd028e9ee5d
 
-Date Range for data:
+Date Range for data in dataset used in this project:
   Aug 10, 2020 to March 10, 2025
+
+Relevant Links / References:
+  - https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021017-eng.htm
+  - https://www150.statcan.gc.ca/n1/en/catalogue/3310039801
